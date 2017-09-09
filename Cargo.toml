@@ -1,0 +1,6 @@
+[package]
+name = "pomo_doro"
+version = "0.0.0"
+authors = ["hUang!(j27) <349373001dc@gmail.com>"]
+
+[dependencies]
